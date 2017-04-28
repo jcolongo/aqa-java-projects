@@ -1,2 +1,3 @@
-# aqa-java-projects
-My Java projects for the AQA computer science GCSE course.
+# GCSE computer science files.
+
+Mostly written in Java, and some netbeans exports.
